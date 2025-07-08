@@ -127,10 +127,6 @@ IGNORE_WHEN_COPYING_START
 
         Open your browser to the local address provided (e.g., http://localhost:3000).
 
-📁 Project Structure
-Generated code
-
-      
 /
 ├── components/         # React components (UI, features)
 │   ├── ui/             # Reusable generic UI components (Card, Loader)
@@ -147,8 +143,6 @@ Generated code
 ├── firebase.ts         # Firebase initialization and configuration
 ├── index.html          # Entry point, includes import maps and TailwindCSS setup
 └── index.tsx           # React root renderer
-
-    
 
 IGNORE_WHEN_COPYING_START
 Use code with caution.
