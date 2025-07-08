@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Calorie Tracker",
+  "description": "A modern, AI-powered calorie and nutrition tracker. Log meals using text search, manual entry, or by simply taking a photo of your food. Track your daily intake, exercise, and progress towards your health goals with beautiful visualizations.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
