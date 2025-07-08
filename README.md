@@ -2,10 +2,6 @@ CalTracker: AI-Powered Nutrition & Fitness Tracker
 
 CalTracker is a modern, AI-powered web application designed to help you effortlessly monitor your daily nutrition and fitness goals. Log meals using text or a photo, track your exercise, and visualize your progress with a clean, responsive interface.
 
-![alt text](https://storage.googleapis.com/maker-suite-guides-codelabs/caltracker-screenshot.png)
-
-
-(Note: Replace with an actual screenshot of your app)
 ✨ Key Features
 
     AI-Powered Food Logging:
